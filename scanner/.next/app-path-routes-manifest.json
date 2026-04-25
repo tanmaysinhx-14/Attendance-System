@@ -1,0 +1,9 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/databaseUploader/route": "/api/databaseUploader",
+  "/api/decryption/route": "/api/decryption",
+  "/api/generateQR/page": "/api/generateQR",
+  "/api/generateToken/route": "/api/generateToken",
+  "/page": "/"
+}

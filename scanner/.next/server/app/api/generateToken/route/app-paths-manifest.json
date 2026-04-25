@@ -1,0 +1,3 @@
+{
+  "/api/generateToken/route": "app/api/generateToken/route.js"
+}

@@ -1,0 +1,9 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/databaseUploader/route": "app/api/databaseUploader/route.js",
+  "/api/decryption/route": "app/api/decryption/route.js",
+  "/api/generateQR/page": "app/api/generateQR/page.js",
+  "/api/generateToken/route": "app/api/generateToken/route.js",
+  "/page": "app/page.js"
+}

@@ -1,0 +1,94 @@
+/* [project]/src/app/assets/page.module.css [app-client] (css) */
+.page-module__53ceQW__page {
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+}
+
+.page-module__53ceQW__container {
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+  max-width: 420px;
+  display: flex;
+}
+
+.page-module__53ceQW__scannerId {
+  opacity: .8;
+  font-size: 14px;
+}
+
+.page-module__53ceQW__title {
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.page-module__53ceQW__cameraButton {
+  appearance: none;
+  color: #171717;
+  cursor: pointer;
+  font: inherit;
+  background: #fffbeb;
+  border: 1px solid #d6d3d1;
+  border-radius: 12px;
+  min-width: 148px;
+  min-height: 44px;
+  padding: 10px 18px;
+  font-weight: 700;
+  transition: background-color .15s, border-color .15s, opacity .15s, transform .15s;
+}
+
+.page-module__53ceQW__cameraButton:hover:not(:disabled) {
+  background: #fef3c7;
+  border-color: #f59e0b;
+  transform: translateY(-1px);
+}
+
+.page-module__53ceQW__cameraButton:disabled {
+  cursor: not-allowed;
+  opacity: .55;
+}
+
+.page-module__53ceQW__reader {
+  border: 2px dashed #555;
+  border-radius: 14px;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 300px;
+  display: flex;
+}
+
+.page-module__53ceQW__status {
+  opacity: .9;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.page-module__53ceQW__message {
+  text-align: center;
+  color: #fff;
+  border-radius: 12px;
+  width: 100%;
+  padding: 12px 18px;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.page-module__53ceQW__success {
+  background: #16a34a;
+}
+
+.page-module__53ceQW__error {
+  background: #dc2626;
+}
+
+.page-module__53ceQW__info {
+  background: #2563eb;
+}
+
+/*# sourceMappingURL=src_app_assets_page_module_0ac_lip.css.map*/
